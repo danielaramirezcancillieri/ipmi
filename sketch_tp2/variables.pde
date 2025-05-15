@@ -1,0 +1,10 @@
+String nombre = "Sudoku";
+color violeta= color(146, 9,188);
+PImage fondo;
+PFont fuente;
+String texto= "Es un juego de rompecabezas japonés.se basa en la colocación lógica de los números,\nno requiere cálculos ni habilidades matemáticas especiales;\nsolo se necesita ingenio y concentración.";
+String mastexto = "Es comun en revistas, diarios\n\ny hay paginas para jugarlo online";
+String mastext = "El objetivo del Sudoku es llenar una cuadrícula de 9×9\ncon dígitos, de modo que cada columna, fila y sección\nde 3×3 contenga los números del 1 al 9";
+String mastex = "Al principio del juego, la cuadrícula de 9×9\n\ntendrá algunas casillas llenas.";
+color rojo= color(255, 0,0);
+String maste = "Es comun en revistas, diarios\n\ny hay paginas para jugarlo online";
